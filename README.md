@@ -1,4 +1,4 @@
-!Aitzaz Web Server Wellcom ](https://static.wikia.nocookie.net/2e38f753-a785-4ffb-90b3-572eeb86e14f/scale-to-width/755.png)
+!Aitzaz Web Server Wellcom ]([![462530043-777717377758081-8941011327128228004-n.jpg](https://i.postimg.cc/bw7GC5B6/462530043-777717377758081-8941011327128228004-n.jpg)](https://postimg.cc/VJFL5K1M)
 
 # ⛰ Aitzaz-website
 Welcom - "Where Every Journey Begins"

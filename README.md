@@ -12,7 +12,7 @@ Thank you for your interest in contributing to [Your App Name]! We're excited to
 
 
 ## 👓 Preview
-<img src= "[[https://ibb.co/JdSR77J](https://i.postimg.cc/bw7GC5B6/462530043-777717377758081-8941011327128228004-n.jpg](https://i.postimg.cc/cJGHMnv2/462536135-1610727353203386-404494633163417204-n.jpg))" width = "75%">
+<img src= "[[[![462540594-853580276954427-4786914105859062843-n.jpg](https://i.postimg.cc/90kX4R3x/462540594-853580276954427-4786914105859062843-n.jpg)](https://postimg.cc/rRS23pwW)))" width = "75%">
 <img src= "https://ibb.co/fXdhF7S" width="75%">
 <img src= "https://ibb.co/1rWMpZh" width = "75%">
 <img src= "https://ibb.co/4ZC166S" width = "75%">

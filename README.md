@@ -12,7 +12,7 @@ Thank you for your interest in contributing to [Your App Name]! We're excited to
 
 
 ## 👓 Preview
-<img src= "https://ibb.co/JdSR77J" width = "75%">
+<img src= "[https://ibb.co/JdSR77J](https://i.postimg.cc/bw7GC5B6/462530043-777717377758081-8941011327128228004-n.jpg)" width = "75%">
 <img src= "https://ibb.co/fXdhF7S" width="75%">
 <img src= "https://ibb.co/1rWMpZh" width = "75%">
 <img src= "https://ibb.co/4ZC166S" width = "75%">

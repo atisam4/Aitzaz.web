@@ -12,6 +12,34 @@ if (window.screen.width <= 1130) {
         $("#pri").css("border", "2px solid whitesmoke");
         $("#pri").css("border-radius", "20px");
     });
+    const body = document.getElementById('body');
+const button = document.getElementById('toggle-theme');
+
+// Function to change theme
+function changeTheme() {
+    const hour = new Date().getHours();
+    if (hour >= 18 || hour < 6) { // checking if current time is evening or night
+        body.classList.add('dark-theme');
+        body.classList.remove('light-theme');
+    } else {
+        body.classList.remove('dark-theme');
+        body.classList.add('light-theme');
+    }
+}
+
+// Initial theme change based on time
+changeTheme();
+
+// Optional: Add event listener to toggle theme manually
+button.addEventListener('click', () => {
+    if (body.classList.contains('dark-theme')) {
+        body.classList.remove('dark-theme');
+        body.classList.add('light-theme');
+    } else {
+        body.classList.remove('light-theme');
+        body.classList.add('dark-theme');
+    }
+});
     $("#tri").on("click", function () {
         removeall();
         $("#tri").css("border", "2px solid whitesmoke");
